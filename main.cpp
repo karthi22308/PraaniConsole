@@ -8,8 +8,8 @@ class Pet{
   int petage;
   
 };
-class user{
-    
+class user{ ...
+     
     
 };
 
